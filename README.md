@@ -1,6 +1,7 @@
 # GrubForAtivBook6
 fix for brightness problem with linux (manjaro in this case) and Ativ Book 6
 ------------------------------------------------------------
+> /etc/default/grub
 
 GRUB_DEFAULT=saved
 
